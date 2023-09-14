@@ -1,0 +1,36 @@
+.footer{
+    background-color: #ebfffc ;
+    color: #626262;
+}
+.sub-bar{
+    display: flex;
+    justify-content: left;
+    padding-top: 3rem !important;
+    color: #ebfffc !important;
+
+}
+.sub-bar input{
+    display: flex;
+    width: 70%;
+    height: 50px;
+    padding-left: 2%;
+    border-radius: 40px;
+    font-size: 18px ;
+    background-color: #9DB2BF ;
+    color: #ebfffc !important;
+    border: none;
+    outline: none;
+    font-family: 400;
+}
+.btn{
+    border-radius: 40px;
+    background-color: #9DB2BF;
+    color: #ebfffc !important;
+    margin-left: 1%;
+    font-weight: 500 !important;
+    font-size: 19px;
+}
+.btn:hover{
+    background-color:#a0b6c3!important;
+}
+
